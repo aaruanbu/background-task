@@ -63,8 +63,8 @@ img:hover {
 .image::after{
 	content:"";
   position:absolute;
-  border-left:10px solid orange;
-  border-top:10px solid orange;
+  border-left:5px solid orange;
+  border-top:5px solid orange;
   height:60px;
   width:60px;
   top:10px;
@@ -74,8 +74,8 @@ img:hover {
 .image::before{
 	content:"";
   position:absolute;
-  border-bottom:10px solid orange;
-  border-right:10px solid orange;
+  border-bottom:5px solid orange;
+  border-right:5px solid orange;
   height:60px;
   width:60px;
   bottom:10px;
